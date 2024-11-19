@@ -1,0 +1,120 @@
+html,
+body {
+    direction: rtl;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+img .header-up .logo1{
+
+}
+.up-header1 .navbar_in {
+    margin-top: 15px;
+    text-align: right;
+}
+
+.up-header1 .navbar_in ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.up-header1 .navbar_in ul li {
+    display: inline-block;
+}
+
+.up-header1 .navbar_in ul li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    color:black;
+}
+.up-header1 .phone{
+    text-align:center;
+}
+.up-header1 .symple a{
+    color: black;
+}
+header {
+    text-align: right;
+    padding: 10px 0px;
+    background-color:#d1a334;
+}
+
+header .navbar {
+    margin-top: 15px;
+}
+
+header .navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header .navbar ul li {
+    display: inline-block;
+}
+
+header .navbar ul li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    color:white;
+}
+.slider .news{background-color:#49494c;
+    color: #fff;
+      padding: 15px 8px;
+        text-align: right;}
+.slider .news h2 a{color:#d1a334;}
+
+    
+
+.slider{margin-top: 60px;}
+
+.MediaBoxes{ margin top:0px; padding:0px; list-style:none; }
+
+.MediaBoxes li{ display:block; background-color:#6a6a6f; margin-bottom:15px; overflow:hidden;}
+
+.MediaBoxes li i{ color:#d1a334; background-color:#49494c; padding:15px; font-size:22px; line-height:37px}
+
+.MediaBoxes li span {color:#fff; font-size:20px; padding:5px;}
+
+.MediaBoxes li a, .MediaBoxes li a:hover{ text-decoration:none;}
+
+.MediaBoxes li:hover{ background-color:#49494c;}
+
+  .slider .news-in{background-color:#49494c;  text-align: right; color:white; list-style: none; }
+.slider .news-in ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+
+ .slider .news-in ul li{display: inline-block; }
+ .slider .news-in ul li a{
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    color:white;
+}
+.sitebar{position: relative;}
+.sitebar .HomeServices{
+    margin-top: -100px;
+    
+}
+.sitebar .HomeServices .srvBox a{color: black;}
+.HomeServices{ position:absolute; bottom:0; z-index:9; width:100%;}
+.HomeServices img{ max-width:130px;}
+.HomeServices ul{border-bottom:5px solid #d1a334; margin-bottom:0px;padding:0px; list-style:none;}
+.HomeServices  li{ border-left:1px solid #6b6e6f;}
+.HomeServices .col-md-3{ padding-left:0px; padding-right:0px; background-color:#6b6e6f;}
+
+.srvBox{ padding:25px 10px 10px; text-align:center; cursor:pointer;}
+.srvBox h6{ color:#fff; font-size:16px;}
+.btn-srv:hover{ color:#000; text-decoration:none; background-color:#d1a334;}
